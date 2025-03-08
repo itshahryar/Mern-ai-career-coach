@@ -61,3 +61,7 @@ npx prisma migrate dev
 npm run dev
 ```
 Now visit **[http://localhost:3000](http://localhost:3000)** in your browser.
+
+### 4️⃣ Screen Shots:
+<img width="938" alt="1" src="https://github.com/user-attachments/assets/6bb3f20d-1e13-4960-8874-51dd7700c458" />
+
