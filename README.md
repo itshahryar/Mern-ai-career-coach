@@ -62,6 +62,28 @@ npm run dev
 ```
 Now visit **[http://localhost:3000](http://localhost:3000)** in your browser.
 
-### 4️⃣ Screen Shots:
+### Screen Shots:
 <img width="938" alt="1" src="https://github.com/user-attachments/assets/6bb3f20d-1e13-4960-8874-51dd7700c458" />
+<img width="937" alt="2" src="https://github.com/user-attachments/assets/a7e4fdac-0b39-42bf-a9c4-7a8c37af7c4a" />
+
+Industry:
+<img width="937" alt="industry 1" src="https://github.com/user-attachments/assets/a1b76b4b-2c6c-4bca-9101-95665abb56ca" />
+<img width="932" alt="industry 2" src="https://github.com/user-attachments/assets/cc0bba41-b8be-40d8-8624-2b5ecefd9aff" />
+
+Interview Prepration / Quiz:
+<img width="919" alt="interview 1" src="https://github.com/user-attachments/assets/523e582e-c53a-47db-9f7b-033d40059498" />
+<img width="938" alt="interview 2" src="https://github.com/user-attachments/assets/f593c38f-c896-464f-bf17-810f8e4e8ab0" />
+<img width="578" alt="Quiz result" src="https://github.com/user-attachments/assets/4ca04a2b-e068-4b5c-86d1-f412910cb2bb" />
+<img width="923" alt="start quiz" src="https://github.com/user-attachments/assets/38e308d8-10f5-48fa-9c67-316f45e81297" />
+<img width="932" alt="quiz Questions" src="https://github.com/user-attachments/assets/c93becfa-949a-4bee-a158-8a896c4457ab" />
+
+Resume:
+<img width="932" alt="resume" src="https://github.com/user-attachments/assets/0c2a2d1a-bd74-46f4-a0d8-5eb8b63b06a5" />
+
+Cover Letter:
+<img width="921" alt="Cover Letter 1" src="https://github.com/user-attachments/assets/6c86d6dc-aed3-4407-8f67-535dbd91c279" />
+<img width="934" alt="Create a cover letter" src="https://github.com/user-attachments/assets/ea9cab04-897a-42fb-9c6c-4f33ad9f2f5d" />
+<img width="935" alt="View Cover Letter" src="https://github.com/user-attachments/assets/85622c0d-5dae-48f5-913f-eb557fb5f0aa" />
+
+
 
