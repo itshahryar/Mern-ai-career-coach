@@ -85,5 +85,16 @@ Cover Letter:
 <img width="934" alt="Create a cover letter" src="https://github.com/user-attachments/assets/ea9cab04-897a-42fb-9c6c-4f33ad9f2f5d" />
 <img width="935" alt="View Cover Letter" src="https://github.com/user-attachments/assets/85622c0d-5dae-48f5-913f-eb557fb5f0aa" />
 
+---
 
+### 📝 Added Comments in My Code for Learners
+
+- ✅ I have **added helpful comments throughout the codebase** to explain how each part works.
+- 👨‍🎓 These comments are written in **simple language**, making it easier for **students and beginners** to follow along.
+- 🔍 You’ll find **explanations near important logics**.
+- 📚 This project is not just for use — it’s also a great resource to **learn full-stack development** with AI features!
+
+![Learner Friendly](https://img.shields.io/badge/learner-friendly-blue)
+
+---
 
